@@ -66,4 +66,7 @@ This architecture prioritizes speed, reliability, and cost efficiency.
 - Machine learning models to estimate S-wave arrival time  
 - Adaptive thresholds based on building characteristics  
 - Long-term structural health monitoring  
-- Enhanced mobile visualization and alert logic  
+- Enhanced mobile visualization and alert logic
+
+**Note:** Some features require a live physical sensor connection and may be limited when using simulation mode.
+
