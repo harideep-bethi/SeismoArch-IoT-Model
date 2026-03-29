@@ -9,7 +9,7 @@ from time import sleep, ticks_ms
 from math import atan2, sqrt, degrees, acos
 import _thread
 
-# === LED Indicator ===
+# === LED Indicator ==
 LED = Pin("LED", Pin.OUT)
 LED.on()  # LED ON indicates system is active
 
