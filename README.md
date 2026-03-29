@@ -47,7 +47,7 @@ This architecture prioritizes speed, reliability, and cost efficiency.
 - Real-time mobile alerts  
 - Live vibration and event dashboard  
 - Modular and low-cost design  
-- Scalable architecture for multi-building deployment  
+- Scalable architecture for multi-building deployment.
 
 ---
 
