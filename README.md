@@ -1,5 +1,5 @@
 # SAIM — SeismoArch Iot Model  
-### Earthquake Early Warning & Structural Monitoring System
+### Earthquake Early Warning & Structural Monitoring Systems
 ---
 
 ## Overview
